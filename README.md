@@ -3,7 +3,7 @@
 
 Hello ! I'm Paul
 
-📚 Currently studying Full Stack Development at Wild Code School
+Freelance devlopper
 
 
 
