@@ -3,7 +3,7 @@
 
 Hello ! I'm Paul
 
-Freelance devlopper
+Freelance developper
 
 
 
