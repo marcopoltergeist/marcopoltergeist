@@ -8,7 +8,7 @@ Freelance developper
 
 
 
-# 🌍 ​Social Media
+# 🌍 ​Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-dubor-9442b0197/) 
 
 # ​🧰​ Tech Stack:
